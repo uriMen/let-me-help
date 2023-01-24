@@ -1,0 +1,14 @@
+Gift,expensive,men,women,kids,adults
+Personalized jewelry,0.2,0.2,1.0,0.4,0.1
+Restaurant gift card,0.5,0.2,0.9,0.3,0.6
+Spa day or massage,0.4,0.9,0.3,0.5,0.2
+Book or collection of books,1.0,0.1,0.3,0.6,0.7
+Cooking or baking class,0.4,0.7,1.0,0.5,0.5
+Set of quality skincare or makeup products,0.3,0.6,0.7,0.5,0.6
+Weekend getaway or vacation package,0.8,0.1,0.1,0.8,0.7
+Tech gadget,0.9,0.9,0.8,0.8,1.0
+Luxury handbag or shoes,0.8,0.1,0.9,0.4,0.1
+Wine or beer making kit,0.8,0.6,0.3,0.6,0.4
+Professional photography session,0.9,0.8,1.0,0.3,0.6
+Hot air balloon ride,0.7,0.3,0.3,0.3,0.3
+Membership to a gym or fitness class,1.0,0.6,0.6,0.5,0.7

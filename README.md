@@ -17,4 +17,16 @@ Use this app to get recommendations or help you decide between options, based on
 1. Run `streamlit run let_me_help.py` to start the app. The app will open in your browser.
 
 ## How to use
-First, you'll have to choose what kind of help you need: If you would like to get ideas for a specific domain you have in mind (e.g vacation destination, gift, movie, etc.), click on "I want recommendations" button. If you're having trouble to decide between 2 options (of any kind) click on "Help me decide" button. ![Initial view](UI imgs\1.png)
+First, you'll have to choose what kind of help you need:
+1. If you would like to get ideas for a specific domain you have in mind (e.g vacation destination, gift, movie, etc.), click on "I want recommendations" button. 
+2. If you're having trouble to decide between 2 options (of any kind) click on "Help me decide" button.
+![Initial view](https://user-images.githubusercontent.com/48162535/214577905-2156fb85-d63e-4cd8-bd63-03872208c19c.png)*Initial view*
+
+
+### 1. Get Recommendations
+If you choose to get recommendations, you'll next have to choose the domain in which you need recommendations for from the dropdown, then click "Start".
+![recommendation](https://user-images.githubusercontent.com/48162535/214580772-26272e54-9c53-49c3-8e22-83c8f15a7c39.png)*Get recommendations*
+
+### 2. Get Help Making a Decision
+If you choose to get help deciding, you'll next have to enter 2 options from which you need to pick 1. These could be anything you want. Then click "Start".
+![decide](https://user-images.githubusercontent.com/48162535/214582153-9c4842a4-df91-4485-a3a0-72ef28d4e87f.png)*Get help with a decision*

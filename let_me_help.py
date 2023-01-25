@@ -154,7 +154,6 @@ if st.session_state.session_type == "decision":
             # disabled=st.session_state.textbox_disabled,
             placeholder="e.g. see a movie",
         )
-    st.write(text_input_1)
 
     st.write("""
             You are going to be presented with a short series of questions.\n

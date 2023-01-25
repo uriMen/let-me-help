@@ -30,3 +30,8 @@ If you choose to get recommendations, you'll next have to choose the domain in w
 ### 2. Get Help Making a Decision
 If you choose to get help deciding, you'll next have to enter 2 options from which you need to pick 1. These could be anything you want. Then click "Start".
 ![decide](https://user-images.githubusercontent.com/48162535/214582153-9c4842a4-df91-4485-a3a0-72ef28d4e87f.png)*Get help with a decision*
+
+### The Questions Phase
+Once "Start" button is clicked, you will face a series of questions, on each one two images will be shown, and you'll to select which one you like better by clicking the "Choose This" button below it. A progress bar shows the progress in this phase.
+![questions](https://user-images.githubusercontent.com/48162535/214643604-41a1a47a-4a3a-4173-ba63-083253c6f427.png)*Question phase*
+

@@ -15,3 +15,6 @@ Use this app to get recommendations or help you decide between options, based on
 (or with `.venv\Scripts\activate.bat` on Windows)
 1. Install requirements by running `pip install -r requirements.txt`
 1. Run `streamlit run let_me_help.py` to start the app. The app will open in your browser.
+
+## How to use
+First, you'll have to choose what kind of help you need: If you would like to get ideas for a specific domain you have in mind (e.g vacation destination, gift, movie, etc.), click on "I want recommendations" button. If you're having trouble to decide between 2 options (of any kind) click on "Help me decide" button. ![Initial view](https://drive.google.com/file/d/1YrOyLsynmKXdHHIiXBVICWihdeLHwZ-L/view?usp=share_link)

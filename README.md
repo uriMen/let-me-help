@@ -8,4 +8,4 @@ Intelligent Interactive Systems course final project
 1. Create a virtual environment using the following command: `python -m venv .venv` and activate it with `source .venv/bin/activate` 
 (or with `.venv\Scripts\activate.bat` on Windows)
 1. Install requirements with `pip install -r requirements.txt`
-1. run `streamlit run let_me_help.py` to start the app. The app will open in your browser.
+1. Run `streamlit run let_me_help.py` to start the app. The app will open in your browser.
